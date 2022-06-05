@@ -18,20 +18,20 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Zyrex botz" //namabot kalian
-global.ownername= "ZYREX SHOP" //nama kalian
+global.botname = "nazar botz" //namabot kalian
+global.ownername= "Kenzo" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCwKIJvJD7K7azuc8E1DKZIA" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia"
-global.ownernomer = "6283184460082" // nomor wa kalian
-global.ownernomerr = "+6283184460082" //nmr wa kalian
+global.ownernomer = "6281563413833" // nomor wa kalian
+global.ownernomerr = "+6281563413833" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6283184460082","6283184460082","918156874290"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'ZYREX BOTZ' //sticker wm ubah
+global.owner = ["6281563413833","6281563413833","918156874290"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'kenzobotz' //sticker wm ubah
 global.author = 'Di Buat Oleh zyrex shop' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
